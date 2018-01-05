@@ -1,6 +1,8 @@
 import pandas as pd
 import re
 
+##### Requirement by prof: don't use SKLearn. Code everything on your own.
+
 # This program evaluates the given .csv file.
 # for fun uncomment the #testString on line 103.
 
