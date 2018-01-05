@@ -4,7 +4,7 @@ import re
 ##### Requirement by prof: don't use SKLearn. Code everything on your own.
 
 # This program evaluates the given .csv file.
-# for fun uncomment the #testString on line 103.
+# for fun uncomment the #testString on line 105.
 
 #######################################################
 # 1 is negative
